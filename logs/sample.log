@@ -1,0 +1,6 @@
+INFO: User logged in
+INFO: File uploaded
+ERROR: Database connection failed
+WARNING: High memory usage
+INFO: Request processed
+ERROR: Timeout occurred
